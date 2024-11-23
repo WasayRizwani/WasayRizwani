@@ -1,59 +1,67 @@
-## Hi there 👋 I'm Abdul Wasay Rizwani 
+# 👋 Hi, I'm Abdul Wasay Rizwani
 
-### 💻 Software Engineer | MSc Student @ Tampere University | Android & Web App Developer
-
-- 🎓 MSc in **Software, Web, and Cloud** @ Tampere University (100% Tuition Fees Scholarship).
-- 🔭 Currently building scalable web and mobile apps to solve modern challenges.
-- 🌱 Learning **advanced cloud technologies**, **AI models**, and **backend systems**.
-- 💬 Ask me about **Android Development**, **Docker**, **AWS**, and **Web Development**.
-- 📫 Contact me at: [wasayrizwani@gmail.com](mailto:wasayrizwani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wasay-rizwani-b0088b1b3/)
 
 ---
 
-## 🌟 Highlights & Achievements
-- 🏆 **Secured $500,000** in funding for an AI-powered communication app during my time at Orbit-Ed.
-- 🌟 Recognized as a **Dean’s List Scholar** throughout my BSc at FAST University (GPA: 3.78/4.0).
-- 📱 Published **Remote Control App** on Google Play with **2M+ downloads**.
-- 🎓 [Geo VPN App](https://play.google.com/store/apps/details?id=com.fast.secure.proxyvpn.unlimitedproxy.security) with secure tunneling in **24 countries**.
+### About Me
+
+- 🎓 **MSc Software, Web, and Cloud Student** at **Tampere University**
+- 💻 **Software Engineer** with **2 years of experience** developing high-quality mobile and web applications.
+- 🌍 Passionate about **Android development**, **backend systems**, and **cloud technologies**.
+- 🔭 I love working on scalable projects and collaborating on innovative ideas.
 
 ---
 
-## 🛠️ Languages and Tools
+### Highlights & Achievements
 
-### 🖥️ Programming Languages
+- 🌟 Developed [Remote Control App](https://play.google.com/store/apps/details?id=com.universal.tv.remote.media) (2M+ downloads) and [Geo VPN App](https://play.google.com/store/apps/details?id=com.fast.secure.proxyvpn.unlimitedproxy.security) with secure tunneling and encryption.
+- 🚀 Contributed to a startup that raised **$500,000 in funding** for AI-based communication tools.
+- 📊 Built and optimized [SkillYah](https://skillyah.com/) – an online teaching platform, improving load times by 30%.
+- 🏆 Recognized as a **Dean’s List Scholar** in all eight semesters during my BSc at FAST University.
+
+---
+
+### Skills & Expertise
+
+#### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📱 Mobile Technologies
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-### 🛠️ Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### Mobile & Web Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+### Projects
 
-![Wasay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasayrizwani&show_icons=true&theme=dark)
-![Wasay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasayrizwani&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasayrizwani&layout=compact&theme=dark)
+#### [Remote Control App](https://play.google.com/store/apps/details?id=com.universal.tv.remote.media)
+- Built with **Kotlin, Android Studio, Retrofit, Sockets**, and **Firebase**.
+- Features Wi-Fi/IR control, screen mirroring, and casting.
+
+#### [Geo VPN App](https://play.google.com/store/apps/details?id=com.fast.secure.proxyvpn.unlimitedproxy.security)
+- Developed a secure VPN app with servers in **24 countries**.
+- Provided encrypted communication and app-specific security.
+
+#### [SkillYah – Online Teaching Platform](https://skillyah.com/)
+- Built with **Node.js, React, Express, MongoDB, and AWS**.
+- Optimized workflows and reduced load times by 30%.
 
 ---
 
-## 🌐 Let's Connect!
+### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://skillyah.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wasay-rizwani-b0088b1b3/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasayrizwani@gmail.com)
